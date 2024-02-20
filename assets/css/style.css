@@ -39,6 +39,8 @@ body {
     background-color: darkblue;
     color: white;
     font-weight: 900;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .btn-primary:hover {
@@ -73,6 +75,7 @@ body {
     width: 500px;
     overflow: hidden;
     border-radius: 1rem;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .card img {
